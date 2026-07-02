@@ -12,8 +12,8 @@ INTERFACE if_mbc_cp_api_business_config PUBLIC.
       iv_service_binding           TYPE string
       iv_service_name              TYPE string
       iv_service_version           TYPE i
-      iv_root_entity_set           TYPE string
-      iv_transport                 TYPE string
+      iv_root_entity_set           TYPE any
+      iv_transport                 TYPE any
       iv_skip_root_entity_list_rep TYPE abap_bool
     RAISING
       cx_mbc_api_exception.
