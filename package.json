@@ -2,10 +2,9 @@
   "name": "open-abap-mbc",
   "version": "1.0.0",
   "private": true,
-  "description": "",
-  "main": "index.js",
+  "description": "open-abap-mbc",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "abaplint"
   },
   "repository": {
     "type": "git",
@@ -13,6 +12,9 @@
   },
   "author": "",
   "license": "",
+  "dependencies": {
+    "@abaplint/cli": "^2.119.53"
+  },
   "bugs": {
     "url": "https://github.com/open-abap/open-abap-mbc/issues"
   },
