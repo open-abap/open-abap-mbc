@@ -23,10 +23,12 @@ ENDCLASS.
 
 CLASS mbc_cp_api IMPLEMENTATION.
   METHOD business_configuration.
-    RETURN. " todo, implement method
+    " todo, implement method
+    RETURN.
   ENDMETHOD.
 
   METHOD rap_table_cts.
-    RETURN. " todo, implement method
+    " todo, implement method
+    RETURN.
   ENDMETHOD.
 ENDCLASS.

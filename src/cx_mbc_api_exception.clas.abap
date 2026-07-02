@@ -26,6 +26,7 @@ CLASS cx_mbc_api_exception IMPLEMENTATION.
   ENDMETHOD.
 
   METHOD if_xco_news~get_messages.
-    RETURN. " todo, implement method
+    " todo, implement method
+    RETURN.
   ENDMETHOD.
 ENDCLASS.
