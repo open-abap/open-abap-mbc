@@ -8,6 +8,11 @@
       "url": "https://github.com/open-abap/open-abap-core",
       "folder": "/core",
       "files": "/src/**/*.*"
+    },
+    {
+      "url": "https://github.com/open-abap/open-abap-xco",
+      "folder": "/xco",
+      "files": "/src/**/*.*"
     }
   ],
   "syntax": {
