@@ -12,6 +12,9 @@
   },
   "author": "",
   "license": "",
+  "dependencies": {
+    "@abaplint/cli": "^2.119.53"
+  },
   "bugs": {
     "url": "https://github.com/open-abap/open-abap-mbc/issues"
   },
